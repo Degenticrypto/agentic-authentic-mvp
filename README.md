@@ -80,3 +80,31 @@ npm install
 cp .env.example .env.local
 # Add your API keys
 npm run dev
+
+# 🤝 Contribute
+We welcome contributions! Whether it's bug fixes, new agents, UI improvements, or documentation — open an issue or PR.
+
+---
+
+## 🔮 Coming Soon: Degentic Authentic™
+While **Agentic Authentic™** is focused on **Web2 app development**, our sister platform **Degentic Authentic™** is built for the **Web3 era**.
+
+**Degentic Authentic™** enables:
+- No-code development of **crypto agents**
+- Automated **DeFi bots**, **trading strategies**, and **NFT tools**
+- On-chain AI agents powered by **ICP**, **Flare**, and **Xahau**
+- dApp integrations with **Chainlink**, **Flare FTSO**, and **Wormhole**
+- Decentralized hosting via **Fleek**, **Spheron**, and **Arweave**
+
+👉 Learn more at: [https://degentic.ai](https://degentic.ai) (coming soon)
+
+Both platforms share the same **AI agent engine**, **workflow design**, and **vibe coding philosophy** — but serve different audiences.
+
+---
+
+## 🙌 Built by RKA Enterprises Inc.
+> Empowering developers with AI, automation, and agency.
+
+📧 hello@rkaenterprises.com  
+🌐 [RKA Enterprises Inc. Official HomepageSoftware Directory](https://ainsights.xyz)
+🐦 [@rkaenterprises.ai](https://x.com/rkaenterprise.ai)
